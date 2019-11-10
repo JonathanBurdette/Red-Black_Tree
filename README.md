@@ -7,6 +7,7 @@ This red-black tree visualization is a modified version of the red-black tree vi
 The source code for the original red-black tree visualization and many other visualizations can be found here: https://www.cs.usfca.edu/~galles/visualization/source.html
 
 Dr. Galles's tutorial for creating data structure visualizations, which I used for this project, is also found in the link above.
+
 Dr. Galles requests that anyone using his code should put the following copyright information at the beginning of the file:
 
 // Copyright 2011 David Galles, University of San Francisco. All rights reserved.
@@ -41,9 +42,12 @@ To install this project locally, download Dr. Galles's source code found here:
 https://www.cs.usfca.edu/~galles/visualization/source.html
 
 My Red-Black.html file should go in the main folder "JavascriptVisualRelease" (where all the other html files are).
+
 My Red-Black.js file should go in the "AlgorithmLibrary" folder (where all the other js files are).
 
-Opening the html file in your browser will allow you to use the visualization. Using the visualization is very straightforward and should be self-explanatory.
+Opening the html file in your browser will allow you to use the visualization. 
+
+Using the visualization is very straightforward and should be self-explanatory.
 
 
 
