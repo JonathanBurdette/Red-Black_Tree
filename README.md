@@ -7,7 +7,7 @@ This red-black tree visualization is a modified version of the red-black tree vi
 The source code for the original red-black tree visualization and many other visualizations can be found here: https://www.cs.usfca.edu/~galles/visualization/source.html
 
 Dr. Galles's tutorial for creating data structure visualizations, which I used for this project, is also found in the link above.
-Dr. Galles requests that anyone using his code should put the following copyright information at the beginning of the file:
+Dr. Galles requests that anyone using his code should put the following copyright information at the beginning of the algorithm file which I have done:
 
 // Copyright 2011 David Galles, University of San Francisco. All rights reserved.
 //
