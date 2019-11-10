@@ -11,8 +11,9 @@ Dr. Galles's tutorial for creating data structure visualizations, which I used f
 Dr. Galles requests that anyone using his code should put the following copyright information at the beginning of the algorithm file which I have done:
 
 // Copyright 2011 David Galles, University of San Francisco. All rights reserved.
-//
+
 // Redistribution and use in source and binary forms, with or without modification, are
+
 // permitted provided that the following conditions are met:
 //
 // 1. Redistributions of source code must retain the above copyright notice, this list of
