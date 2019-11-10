@@ -1,5 +1,6 @@
 # Red-Black_Tree
 Red-Black Tree Visualization
+
 This visualization demonstrates how a red-black tree works with insert, delete, find, and print functionality.
 
 This red-black tree visualization is a modified version of the red-black tree visualization here: https://www.cs.usfca.edu/~galles/visualization/RedBlack.html
