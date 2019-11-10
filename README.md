@@ -41,7 +41,6 @@ To install this project locally, download Dr. Galles's source code found here:
 https://www.cs.usfca.edu/~galles/visualization/source.html
 
 My Red-Black.html file should go in the main folder "JavascriptVisualRelease" (where all the other html files are).
-
 My Red-Black.js file should go in the "AlgorithmLibrary" folder (where all the other js files are).
 
 Opening the html file in your browser will allow you to use the visualization. Using the visualization is very straightforward and should be self-explanatory.
