@@ -13,7 +13,6 @@ Dr. Galles requests that anyone using his code should put the following copyrigh
 // Copyright 2011 David Galles, University of San Francisco. All rights reserved.
 
 // Redistribution and use in source and binary forms, with or without modification, are
-
 // permitted provided that the following conditions are met:
 //
 // 1. Redistributions of source code must retain the above copyright notice, this list of
