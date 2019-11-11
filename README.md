@@ -14,7 +14,7 @@ To install this project locally:
 2) Put my Red-Black.html file in the main folder "JavascriptVisualRelease" (where all the other html files are).
 3) Put my Red-Black.js file in the "AlgorithmLibrary" folder (where all the other js files are).
 
-Opening the html file in your browser will allow you to use the visualization. Using the visualization is very straightforward. Some more info on how to use the visualization can be found here: https://www.cs.usfca.edu/~galles/visualization/about.html
+Opening the Red-Black.html file in your browser will allow you to use the visualization. Using the visualization is very straightforward. Some more info on how to use the visualization can be found here: https://www.cs.usfca.edu/~galles/visualization/about.html
 
 
 
